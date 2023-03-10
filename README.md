@@ -6,3 +6,6 @@ colaborativo que nos permite crear repositorios Git centralizados y compartidos.
 
 
 ![Fondo de Pantalla] (imagenes/fondoclaro.png)
+
+
+Modifico es fichero desde vscode.
