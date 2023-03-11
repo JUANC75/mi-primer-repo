@@ -1,1 +1,1 @@
-Escribo una palabra en *cursiva* utilizando asteriscos
+Escribo una palabra en **negrita** utilizando doble asterisco
