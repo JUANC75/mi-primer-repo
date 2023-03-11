@@ -6,8 +6,7 @@ colaborativo que nos permite crear repositorios Git centralizados y compartidos.
 
 Primera sincronizacion desde consola.
 
-[Fondo de Pantalla](/mi-primer-repo/imagenes/fondoclaro.png)
-
+![Fondo de Pantalla](/mi-primer-repo/imagenes/fondoclaro.png)
 
 Modifico el fichero desde vscode.
 
