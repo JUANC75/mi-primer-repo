@@ -14,4 +14,4 @@ Escribo en ***negrita y cursiva*** utilizando 3 asteriscos
 
 ###### Encabezado hasta el nivel 6
 
-Añado enlace: [Enlace](https://github.com/JUANC75/mi-primer-repo)
+Añado enlace: [Mi página de GitHub](https://github.com/JUANC75/mi-primer-repo)
